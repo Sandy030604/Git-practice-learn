@@ -1,1 +1,3 @@
 I am learning git now
+ santhsoh change made 
+changes made as said by chatgpt 
